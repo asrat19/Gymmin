@@ -17,6 +17,7 @@ public class gymRatzz extends AppCompatActivity {
     public void workouts(View view) {
         Intent intent = new Intent(this, screenTwo.class);
         startActivity(intent);
+        //d
     }
 
     public void motivation(View view) {
